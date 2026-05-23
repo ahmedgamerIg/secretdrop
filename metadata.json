@@ -1,0 +1,6 @@
+{
+  "name": "secret drop",
+  "description": "An emotional, cinematic anonymous secret drop and confessions network powered by AI safety audit, real-time emotion telemetry, interactive mood maps, and a futuristic community stream.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
